@@ -1,0 +1,4 @@
+product_name,category,selling_price,cost_price,store_name,batch_code,quantity,expiry_date,daily_sales_per_day
+A2 Cow Milk Powder 500g,Dairy,240,165,Store A - Central Market,TR-MILK-A,120,2026-11-22,2
+A2 Cow Milk Powder 500g,Dairy,240,165,Store B - Karol Bagh,TR-MILK-B,15,2026-11-24,10
+A2 Cow Milk Powder 500g,Dairy,240,165,Store C - Dwarka,TR-MILK-C,35,2026-12-02,2

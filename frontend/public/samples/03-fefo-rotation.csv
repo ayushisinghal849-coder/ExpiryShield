@@ -1,0 +1,4 @@
+product_name,category,selling_price,cost_price,store_name,batch_code,quantity,expiry_date,daily_sales_per_day
+Cheddar Cheese Slices 200g,Dairy,180,118,Store A - Central Market,FE-CHEESE-A,70,2026-11-30,1
+Cheddar Cheese Slices 200g,Dairy,180,118,Store B - Karol Bagh,FE-CHEESE-B,25,2026-12-04,1
+Cheddar Cheese Slices 200g,Dairy,180,118,Store C - Dwarka,FE-CHEESE-C,30,2026-12-08,1

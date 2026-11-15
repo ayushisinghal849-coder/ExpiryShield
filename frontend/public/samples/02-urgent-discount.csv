@@ -1,0 +1,4 @@
+product_name,category,selling_price,cost_price,store_name,batch_code,quantity,expiry_date,daily_sales_per_day
+Whole Wheat Bread,Bakery,55,32,Store A - Central Market,DS-BREAD-A,90,2026-11-16,4
+Whole Wheat Bread,Bakery,55,32,Store B - Karol Bagh,DS-BREAD-B,25,2026-11-26,1
+Whole Wheat Bread,Bakery,55,32,Store C - Dwarka,DS-BREAD-C,20,2026-11-29,1

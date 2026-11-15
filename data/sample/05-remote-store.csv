@@ -1,0 +1,4 @@
+product_name,category,selling_price,cost_price,store_name,batch_code,quantity,expiry_date,daily_sales_per_day
+Organic Almond Milk 1L,Plant Beverages,220,150,Store A - Central Market,RM-ALMOND-A,100,2026-11-26,2
+Organic Almond Milk 1L,Plant Beverages,220,150,Store D - Agra,RM-ALMOND-D,12,2026-11-28,9
+Organic Almond Milk 1L,Plant Beverages,220,150,Store B - Karol Bagh,RM-ALMOND-B,20,2026-12-04,1

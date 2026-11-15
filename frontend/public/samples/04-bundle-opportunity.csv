@@ -1,0 +1,4 @@
+product_name,category,selling_price,cost_price,store_name,batch_code,quantity,expiry_date,daily_sales_per_day
+Orange Juice 1L,Beverages,130,78,Store A - Central Market,BU-JUICE-A,110,2026-11-20,2
+Orange Juice 1L,Beverages,130,78,Store B - Karol Bagh,BU-JUICE-B,30,2026-11-29,1
+Orange Juice 1L,Beverages,130,78,Store C - Dwarka,BU-JUICE-C,25,2026-12-02,1
